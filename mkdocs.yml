@@ -1,0 +1,22 @@
+site_name: Melanie Documentation
+theme:
+  favicon: assets/melanieicon.png
+  name: material
+  icon:
+    logo: material/robot-excited
+  palette:
+    primary: deep purple
+    scheme: slate
+    accent: indigo
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - tables
+  - abbr
+  - attr_list
+  - pymdownx.snippets
+
+extra:
+  generator: false
+plugins:
+  - search
