@@ -21,7 +21,6 @@ You are required to be compliant with the terms shown on this page. You are not 
 - Malicious use of the website
 - Scraping content on this website for malicious use
 - Framing a portion or all of the website
-- Melanie Bot Usage
 
 ### You are not to do any of the following:
 
@@ -29,7 +28,7 @@ You are required to be compliant with the terms shown on this page. You are not 
 - Violate the Discord ToS
 - Violate our website's terms and policies
 - Copy Melanie's services or features
-- Termination
+
 
 **We reserve the right to terminate your access to our services immediately (under our sole discretion) without prior notice or liability for any reason (including, but not limited to, a breach of the terms).**
 
