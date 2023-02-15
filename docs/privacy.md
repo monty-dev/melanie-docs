@@ -13,8 +13,7 @@ We use your data to provide and improve the Service. By using the Service, you a
 - Username changes and nickname changes
 - Message IDs
 - Message Timestamps
-- Message content which is stored for a maximum of 14 days, except when it is ran with a command. Messages ran with a command are stored indefinitely.
-- Message word vectors that are stored indefinitely.
+- Message content which is stored for a maximum of 14 days if it is ran with a command.
 
 ## Data Sharing
 
@@ -22,15 +21,17 @@ Melanie Bot is committed to user privacy and does not expose or sell your data t
 
 ## Data Usage
 
-Username and nickname changes are stored to provide functionality necessiary for the `;names` command. Message content vectors are necessary to provide Wordcloud images that are used to visualized a user's most said words. All other items collected above are used to provide essential functionality of that bot for it to run stable.
+Username and nickname changes are stored to provide functionality necessiary for the `;names` command. All other items collected above are used to provide essential functionality of that bot for it to run stable.
 
 ## Data Removal
 
-Removal requests can be made by contacting email `contact@melaniebot.gg`.
+The easiest way to request your data be deleted is by using the bot command ";deletemydata". This requires no admin interaction or verification and is done in a prompt manner.
+
+If you are not able to access your Discord account, we can process deletion requests off the platform. These removal requests can be made by contacting email `contact@melaniebot.net`.
 
 ## Data Request
 
-A copy of your data can be provided free of charge by contacting `datarequests@melaniebot.gg`. We'll reach out back to you over Discord to provide you the archive of your data. Expect a response within 7 business days.
+A copy of your data can be provided free of charge by contacting `datarequests@melaniebot.net`. We'll reach out back to you over Discord to provide you the archive of your data. Expect a response within 7 business days.
 
 ## Security capabilities & Payment Information
 

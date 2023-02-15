@@ -2,11 +2,11 @@
 
 By visiting ("Melanie") or inviting ("Melanie Bot") to your Discord server or logging into our website, you agree and consent to the terms displayed on this page including our policies (Privacy Policy). When we state "Melanie," "we," "us," and "our" in these terms, we mean Melanie. "Services" mean Melanie's services that we offer to users.
 
-If any information stated here seems/is misleading, please contact us immediately at contact@melaniebot.gg
+If any information stated here seems/is misleading, please contact us immediately at contact@melaniebot.net
 
 ## Refund & Transfers
 
-Purchasing Melanie comes with a 3-day no questions asked refund policy. You may requets a refund by contacting refunds@melaniebot.gg.
+Purchasing Melanie comes with a 3-day no questions asked refund policy. You may requets a refund by contacting refunds@melaniebot.net.
 The original purchaser is entitled to 1 server transfer per purchased activation. Server transfers should be handled through the [Support Server](https://discord.com/invite/X6QgHsdJ2Z)
 
 ## Disclaimer
