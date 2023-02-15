@@ -25,7 +25,7 @@ Username and nickname changes are stored to provide functionality necessiary for
 
 ## Data Removal
 
-The easiest way to request your data be deleted is by using the bot command ";deletemydata". This requires no admin interaction or verification and is done in a prompt manner.
+The easiest way to request your data be deleted is by using the bot command `;deletemydata`. This requires no admin interaction or verification and is done in a prompt manner.
 
 If you are not able to access your Discord account, we can process deletion requests off the platform. These removal requests can be made by contacting email `contact@melaniebot.net`.
 
